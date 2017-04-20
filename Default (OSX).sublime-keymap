@@ -1,11 +1,5 @@
 [
 	{
-		"keys": ["ctrl+alt+?"], "command": "find_keymap"
-	},
-	{
-		"keys": ["ctrl+alt+_"], "command": "cheat_sheet"
-	},
-	{
 		"keys": ["ctrl+alt+shift+down"],
 		"command": "navigate_keymaps",
 		"context":
